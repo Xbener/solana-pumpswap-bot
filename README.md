@@ -16,7 +16,7 @@ This bot is designed to to buy and sell tokens in PumpSwap that migrated from pu
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/PioSol7/Solana_PumpSwap_Bot.git
+git clone https://github.com/Xbener/Solana_PumpSwap_Bot.git
 cd Solana_PumpSwap_Bot
 ```
 2. Install dependencies
@@ -77,9 +77,9 @@ async function main() {
 
     ## Author
     
-    Discord: takhi_77 in discord
+    Discord: x_bener in discord
     
-    Telegram: [@Takhi](https://t.me/@@takhi_77)
+    Telegram: [@xbener95](https://t.me/xbener95)
     
     You can always feel free to find me here for my help on other projects.
 
